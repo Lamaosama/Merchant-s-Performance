@@ -5,6 +5,11 @@ Merchants Performance Dashboard
 Description:
 This fintech-focused dashboard tracks merchant onboarding and transaction data over time, providing insights into regional and industry-specific trends to support data-driven decision-making.
 
+Tools Used:
+•	SQL: Data extraction, transformation, and aggregation.
+• Tableau Analytics: Dashboard design and data visualization.
+•	Excel: Data preprocessing and validation.
+
 Key Features:
 • Pipeline Funnel: Visualizes the merchant journey from onboarding to transaction.
 • Geographic Insights: Displays merchant distribution across regions.
